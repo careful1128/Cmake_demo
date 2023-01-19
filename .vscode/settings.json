@@ -1,3 +1,6 @@
 {
-    "cmake.sourceDirectory": "${workspaceFolder}/CMake_Demo/CMakeTutorial/CUDA"
+    "cmake.sourceDirectory": "${workspaceFolder}/CMake_Demo/CMakeTutorial/CUDA",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }

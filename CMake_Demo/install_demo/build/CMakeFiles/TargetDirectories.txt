@@ -1,0 +1,8 @@
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/install/strip.dir
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/install/local.dir
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/install.dir
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/list_install_components.dir
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/mymath.dir
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/rebuild_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/mymathapp.dir
+/home/elvin/cpp_demo/CMake_Demo/install_demo/build/CMakeFiles/edit_cache.dir

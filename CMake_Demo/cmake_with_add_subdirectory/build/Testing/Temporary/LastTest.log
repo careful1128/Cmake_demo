@@ -1,0 +1,23 @@
+Start testing: Jul 24 12:32 CST
+----------------------------------------------------------
+1/1 Testing: test_evolution
+1/1 Test: test_evolution
+Command: "/home/elvin/cpp_demo/CMake_Demo/cmake_with_add_subdirectory/build/bin/cpp_test"
+Directory: /home/elvin/cpp_demo/CMake_Demo/cmake_with_add_subdirectory/build/tests
+"test_evolution" start time: Jul 24 12:32 CST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (2 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[*****Hello Cmake*********
+]
+"test_evolution" end time: Jul 24 12:32 CST
+"test_evolution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 24 12:32 CST

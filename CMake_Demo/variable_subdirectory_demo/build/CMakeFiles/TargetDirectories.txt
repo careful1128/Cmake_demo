@@ -1,0 +1,6 @@
+/home/elvin/cpp_demo/CMake_Demo/variable_subdirectory_demo/build/CMakeFiles/rebuild_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/variable_subdirectory_demo/build/CMakeFiles/edit_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/variable_subdirectory_demo/build/src/CMakeFiles/rebuild_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/variable_subdirectory_demo/build/src/CMakeFiles/edit_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/variable_subdirectory_demo/build/src_parent_scope/CMakeFiles/rebuild_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/variable_subdirectory_demo/build/src_parent_scope/CMakeFiles/edit_cache.dir

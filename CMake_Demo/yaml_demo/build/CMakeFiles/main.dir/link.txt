@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main   -L/home/elvin/CMake_Demo/yaml_demo/build/third_party/yaml_cpp  -Wl,-rpath,/home/elvin/CMake_Demo/yaml_demo/build/third_party/yaml_cpp third_party/yaml_cpp/libyaml-cpp.a 

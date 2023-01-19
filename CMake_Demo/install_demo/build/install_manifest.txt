@@ -1,0 +1,2 @@
+/home/elvin/temp/lib/libmymath.so
+/home/elvin/temp/bin/mymathapp

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libevolution.a CMakeFiles/evolution.dir/evolution.cpp.o
+/usr/bin/ranlib ../../lib/libevolution.a

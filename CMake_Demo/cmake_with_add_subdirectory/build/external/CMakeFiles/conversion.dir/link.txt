@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libconversion.a CMakeFiles/conversion.dir/conversion.cpp.o
+/usr/bin/ranlib ../lib/libconversion.a

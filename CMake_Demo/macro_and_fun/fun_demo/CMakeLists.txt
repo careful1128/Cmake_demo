@@ -1,0 +1,32 @@
+cmake_minimum_required(VERSION 3.18)
+ 
+# 设置工程名称
+set(PROJECT_NAME KAIZEN)
+ 
+# 设置工程版本号
+set(PROJECT_VERSION "1.0.0.10" CACHE STRING "默认版本号")
+ 
+# 工程定义
+project(${PROJECT_NAME}
+    LANGUAGES CXX C
+    VERSION ${PROJECT_VERSION}
+)
+ 
+# 打印开始日志
+message(STATUS "\n########## BEGIN_TEST_MACRO_VS_FUNCTION")
+ 
+function(test_func_default_var)
+    # 打印CMAKE_CURRENT_FUNCTION参数值
+    message(STATUS "CMAKE_CURRENT_FUNCTION: ${CMAKE_CURRENT_FUNCTION}")
+    # 打印CMAKE_CURRENT_FUNCTION_LIST_DIR参数值
+    message(STATUS "CMAKE_CURRENT_FUNCTION_LIST_DIR: ${CMAKE_CURRENT_FUNCTION_LIST_DIR}")
+    # 打印CMAKE_CURRENT_FUNCTION_LIST_FILE参数值
+    message(STATUS "CMAKE_CURRENT_FUNCTION_LIST_FILE: ${CMAKE_CURRENT_FUNCTION_LIST_FILE}")
+    # 打印CMAKE_CURRENT_FUNCTION_LIST_FINE参数值
+    message(STATUS "CMAKE_CURRENT_FUNCTION_LIST_LINE: ${CMAKE_CURRENT_FUNCTION_LIST_LINE}")
+endfunction()
+ 
+test_func_default_var()
+ 
+# 打印结束日志
+message(STATUS "########## END_TEST_MACRO_VS_FUNCTION\n")

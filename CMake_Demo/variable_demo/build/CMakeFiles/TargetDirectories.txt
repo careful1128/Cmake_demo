@@ -1,0 +1,2 @@
+/home/elvin/CMake_Demo/variable_demo/build/CMakeFiles/rebuild_cache.dir
+/home/elvin/CMake_Demo/variable_demo/build/CMakeFiles/edit_cache.dir

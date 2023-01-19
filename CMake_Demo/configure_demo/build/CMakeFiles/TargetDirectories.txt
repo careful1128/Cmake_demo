@@ -1,0 +1,3 @@
+/home/elvin/cpp_demo/CMake_Demo/configure_demo/build/CMakeFiles/edit_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/configure_demo/build/CMakeFiles/rebuild_cache.dir
+/home/elvin/cpp_demo/CMake_Demo/configure_demo/build/CMakeFiles/Tutorial.dir

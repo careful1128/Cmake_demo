@@ -1,0 +1,21 @@
+{"model_config":{
+	"model_type":"paddlex",
+	"model_cfg_file":"./models/yolov3/model.yml", 
+	"model_key":"",
+	"model_filename":"./models/yolov3/model.pdmodel",
+	"model_params_filename":"./models/yolov3/model.pdiparams",
+	"model_use_gpu":true,
+	"model_gpu_id":0,
+	"model_use_trt":false,
+	"is_input_shape":true,
+	"model_input_shape_max":{"image":[1,3,608,608]},
+	"model_input_shape_min":{"image":[1,3,608,608]},
+	"model_input_shape_optim":{"image":[1,3,608,608]},
+    "input_shape_path":"config.pdmodl"},
+"task_config":{
+	"filter_ROI":[123,123,234,234,345,345],
+	"filter_ai_type":["clas", "seg"],
+	"filter_model_id":[25,36],
+	"object_select_type":[["person","hat","red"],["dog","eye"]],
+	"conf_thr":0.5}
+}

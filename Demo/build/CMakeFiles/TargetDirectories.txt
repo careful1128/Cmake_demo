@@ -1,0 +1,3 @@
+/home/shenlan08/cpp_demo/Demo/build/CMakeFiles/main.dir
+/home/shenlan08/cpp_demo/Demo/build/CMakeFiles/edit_cache.dir
+/home/shenlan08/cpp_demo/Demo/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/home/elvin/CMake_Demo/dynamic_lib_demo/build/CMakeFiles/main.bin.dir
+/home/elvin/CMake_Demo/dynamic_lib_demo/build/CMakeFiles/rebuild_cache.dir
+/home/elvin/CMake_Demo/dynamic_lib_demo/build/CMakeFiles/hello_dynamic.dir
+/home/elvin/CMake_Demo/dynamic_lib_demo/build/CMakeFiles/main_1.bin.dir
+/home/elvin/CMake_Demo/dynamic_lib_demo/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/elvin/opencv_cpp_demo/build/CMakeFiles/rebuild_cache.dir
+/home/elvin/opencv_cpp_demo/build/CMakeFiles/edit_cache.dir
+/home/elvin/opencv_cpp_demo/build/CMakeFiles/test1.dir

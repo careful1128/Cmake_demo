@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.bin.dir/demo/main.cpp.o -o ../demo/main.bin   -L/home/elvin/CMake_Demo/dynamic_lib_demo/lib  -Wl,-rpath,/home/elvin/CMake_Demo/dynamic_lib_demo/lib ../lib/libhello_dynamic.so 

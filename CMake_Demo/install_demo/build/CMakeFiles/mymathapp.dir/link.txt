@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mymathapp.dir/my_math.cpp.o -o mymathapp  -Wl,-rpath,/home/elvin/cpp_demo/CMake_Demo/install_demo/build: libmymath.so 

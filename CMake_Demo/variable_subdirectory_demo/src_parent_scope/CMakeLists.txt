@@ -1,0 +1,1 @@
+message(STATUS "we are in src_parent_scope : ${MY_SUB_DIR_VAR}")

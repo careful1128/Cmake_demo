@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/automata.dir/main.cpp.o -o ../bin/automata  ../lib/libconversion.a ../lib/libevolution.a ../lib/libinitial.a ../lib/libio.a ../lib/libparser.a 
